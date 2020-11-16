@@ -128,7 +128,7 @@ var Room = {
 				return {
 					'wood': 800,
 					'leather': 100,
-					'scales': 10
+					'scales': 5
 				};
 			},
 			audio: AudioLibrary.BUILD_WORKSHOP
