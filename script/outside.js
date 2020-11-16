@@ -16,7 +16,7 @@ var Outside = {
 			delay: 10,
 			stores: {
 				'wood': 100,
-				'fur': 0.1
+				'fur': 0.5
 			}
 		},
 		'hunter': {
