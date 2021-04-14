@@ -5,8 +5,8 @@ var Outside = {
 	name: _("Outside"),
 	
 	_STORES_OFFSET: 0,
-	_GATHER_DELAY: 5,
-	_TRAPS_DELAY: 5,
+	_GATHER_DELAY: 2,
+	_TRAPS_DELAY: 2,
 	_POP_DELAY: [0.5, 3],
 	_HUT_ROOM: 4,
 	
