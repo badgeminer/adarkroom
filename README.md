@@ -1,5 +1,6 @@
 A Dark Room
 ===========
+https://badgeminer.github.io/adarkroom/
 > "awake. head throbbing. vision blurry. come light the fire."
 
 a minimalist text adventure game for your browser
