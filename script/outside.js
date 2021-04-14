@@ -107,7 +107,7 @@ var Outside = {
 			message: _('bits of meat')
 		},
 		{
-			rollUnder: 0.85,
+			rollUnder: 0.99,
 			name: 'scales',
 			message: _('strange scales')
 		},
