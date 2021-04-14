@@ -15,7 +15,7 @@ var Outside = {
 			name: _('gatherer'),
 			delay: 10,
 			stores: {
-				'wood': 100,
+				'wood': 150,
 				'fur': 0.5
 			}
 		},
@@ -49,7 +49,7 @@ var Outside = {
 			stores: {
 				'meat': -5,
 				'wood': -5,
-				'cured meat': 50
+				'cured meat': 55
 			}
 		},
 		'iron miner': {
