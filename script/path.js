@@ -1,9 +1,9 @@
 var Path = {
-	DEFAULT_BAG_SPACE: 50,
+	DEFAULT_BAG_SPACE: 100,
 	_STORES_OFFSET: 0,
 	// Everything not in this list weighs 1
 	Weight: {
-		'bone spear': 1,
+		'bone spear': 0.1,
 		'iron sword': 3,
 		'steel sword': 5,
 		'rifle': 5,
